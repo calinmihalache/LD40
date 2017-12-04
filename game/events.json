@@ -1,0 +1,563 @@
+{
+  "data": [
+    {
+      "title" : "Your friends want to go out.",
+      "answers" : [
+        {
+          "title" : "Go to the club. Party hard!",
+          "effect" : [1,1,-2,-1,5],
+          "factor" : [2,1,1,1,4]
+        },
+        {
+          "title" : "Go to the friendly pub.",
+          "effect" : [3,1,-3,0,1],
+          "factor" : [4,1,1,1,2]
+        },
+        {
+          "title" : "Stay at home.",
+          "effect" : [0,0,2,0,-1],
+          "factor" : [1,1,4,1,1]
+        },
+        {
+          "title" : "Reject them.",
+          "effect" : [0,0,5,0,-2],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Invite them over for drinks.",
+          "effect" : [2,0,-2,0,1],
+          "factor" : [2,2,1,1,1]
+        },
+        {
+          "title" : "Invite them to a poker game.",
+          "effect" : [0,1,-1,3,1],
+          "factor" : [1,2,1,4,1]
+        }
+      ]
+    },{
+      "title" : "Your friends want to go out.",
+      "answers" : [
+        {
+          "title" : "Go to the club. Party hard!",
+          "effect" : [1,1,-2,-1,5],
+          "factor" : [2,1,1,1,4]
+        },
+        {
+          "title" : "Go to the friendly pub.",
+          "effect" : [3,1,-3,0,1],
+          "factor" : [4,1,1,1,2]
+        },
+        {
+          "title" : "Stay at home.",
+          "effect" : [0,0,2,0,-1],
+          "factor" : [1,1,4,1,1]
+        },
+        {
+          "title" : "Reject them.",
+          "effect" : [0,0,5,0,-2],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Invite them over for drinks.",
+          "effect" : [2,0,-2,0,1],
+          "factor" : [2,2,1,1,1]
+        },
+        {
+          "title" : "Invite them to a poker game.",
+          "effect" : [0,1,-1,3,1],
+          "factor" : [1,2,1,4,1]
+        }
+      ]
+    },
+    {
+      "title" : "A friend holds a Birthday Party",
+      "answers" : [
+        {
+          "title" : "Refuse him/her.",
+          "effect" : [0,0,4,0,-2],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Accept. Propose drinking games.",
+          "effect" : [4,1,1,3,2],
+          "factor" : [3,1,1,5,1]
+        },
+        {
+          "title" : "Accept, create social media event.",
+          "effect" : [2,-1,4,-1,2],
+          "factor" : [1,1,6,1,1]
+        },
+        {
+          "title" : "Crete a messaging group and have a surprise party.",
+          "effect" : [1,0,3,-1,1],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to party. Go to Casino after that.",
+          "effect" : [2,2,-2,5,3],
+          "factor" : [1,1,1,5,4]
+        },
+        {
+          "title" : "Stay at home and drink alone. No one came to your birthday.",
+          "effect" : [4,1,-2,0,-2],
+          "factor" : [5,1,1,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "A friend just ended his/hers relationship.",
+      "answers" : [
+        {
+          "title" : "Invite him/her over for drinks. Help them drink to forget.",
+          "effect" : [3,-1,0,-1,1],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Go to a cigars club. He/her is better than that scum!",
+          "effect" : [2,5,-1,-1,2],
+          "factor" : [2,5,1,1,1]
+        },
+        {
+          "title" : "Go out to a Casino. Nothing what a Jackpot can't solve.",
+          "effect" : [1,2,-1,6,2],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Go to a striptease club... Boobieees!!!",
+          "effect" : [2,2,-3,0,5],
+          "factor" : [1,1,1,1,5]
+        },
+        {
+          "title" : "Give him/her a call and talk about it.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "You have better (scrolling) things to do.",
+          "effect" : [-2,-2,6,0,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "You are bored at work.",
+      "answers" : [
+        {
+          "title" : "Go to the bathroom and take a sip.",
+          "effect" : [5,-1,0,-1,1],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Invite colleagues to a cigar",
+          "effect" : [1,5,-2,-1,1],
+          "factor" : [1,5,1,1,1]
+        },
+        {
+          "title" : "Play some online poker.",
+          "effect" : [0,0,3,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "You are a surfer. Surf the web!",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Chat with colleagues about last weekend party.",
+          "effect" : [-1,-1,5,-1,3],
+          "factor" : [1,1,5,1,3]
+        },
+        {
+          "title" : "Watch cat videos.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "You are bored at work.",
+      "answers" : [
+        {
+          "title" : "Drink some booze in your pathetic cubical.",
+          "effect" : [5,-1,0,-1,1],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Invite colleagues to a cigar",
+          "effect" : [1,5,-2,-1,1],
+          "factor" : [1,5,1,1,1]
+        },
+        {
+          "title" : "Place some online bets.",
+          "effect" : [0,0,3,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Scroll, scroll, scroll!",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Chat with colleagues about last weekend party.",
+          "effect" : [-1,-1,5,-1,3],
+          "factor" : [1,1,5,1,3]
+        },
+        {
+          "title" : "Watch porn.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "Your other half misses you!",
+      "answers" : [
+        {
+          "title" : "Go to the local pub.",
+          "effect" : [5,-1,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Go to the park. Fresh air and a cigar",
+          "effect" : [1,3,-2,-1,1],
+          "factor" : [1,5,1,1,1]
+        },
+        {
+          "title" : "Invite over and play some BlackJack",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Chat on the phone",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to the club and dance your brains out.",
+          "effect" : [2,0,5,-1,3],
+          "factor" : [1,1,5,1,3]
+        },
+        {
+          "title" : "Watch cat videos together.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "Your car died!",
+      "answers" : [
+        {
+          "title" : "Go to the local pub and drink your sorrow.",
+          "effect" : [5,-1,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Grab a pack of smokes and try to fix it",
+          "effect" : [1,3,-2,-1,1],
+          "factor" : [1,5,1,1,1]
+        },
+        {
+          "title" : "Call your loan shark for money to repair the car",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Go nuts on social media against the car company",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to the club. Who needs a car these days...",
+          "effect" : [2,0,0,-1,3],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Post on social media how sad your life is.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "A family member died!",
+      "answers" : [
+        {
+          "title" : "Go to the local pub and drink your sorrow.",
+          "effect" : [5,-1,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Grab a pack of smokes and relieve the memories",
+          "effect" : [1,3,-2,-1,1],
+          "factor" : [1,5,1,1,1]
+        },
+        {
+          "title" : "Go to the Casino to forget all the pain",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Create a social media page to remmber him/her",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to the club. Sex helps to forget",
+          "effect" : [2,0,1,-1,5],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Post on social media how sad your are.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "You are bored. Life...",
+      "answers" : [
+        {
+          "title" : "Go to the market and buy your favorite drink.",
+          "effect" : [5,-1,0,-1,1],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Invite friends to cigars and blackjack",
+          "effect" : [2,5,-2,4,1],
+          "factor" : [1,5,1,4,1]
+        },
+        {
+          "title" : "Play some online casino.",
+          "effect" : [0,0,3,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Clean your social media friends list",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Invite friends to a club.",
+          "effect" : [-1,-1,5,-1,3],
+          "factor" : [1,1,5,1,3]
+        },
+        {
+          "title" : "Invite friends to football match.",
+          "effect" : [-1,-1,2,2,2],
+          "factor" : [1,1,2,2,4]
+        }
+      ]
+    },
+    {
+      "title" : "You have no will to live",
+      "answers" : [
+        {
+          "title" : "Go to the local pub and drink your sorrow.",
+          "effect" : [5,-1,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Grab a pack of smokes and try to forget it.",
+          "effect" : [1,3,-2,-1,1],
+          "factor" : [1,5,1,1,1]
+        },
+        {
+          "title" : "Go to the Casino to forget all the pain",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Create a blog and write your feelings",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to the club. Sex is better than death",
+          "effect" : [2,0,1,-1,5],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Post on social media how down your are.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "Your favorite club plays a match",
+      "answers" : [
+        {
+          "title" : "Go to the local pub and watch the game.",
+          "effect" : [5,-1,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Grab a pack of smokes and beer and watch the game.",
+          "effect" : [1,3,-2,-1,1],
+          "factor" : [1,5,1,1,1]
+        },
+        {
+          "title" : "Bet on your team to win",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Comment on the live match feed",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to the club. Sports are for lame people",
+          "effect" : [2,0,1,-1,5],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Create a messaging group and comment the game.",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "Your crush asks you out",
+      "answers" : [
+        {
+          "title" : "Go to the local pub and chat.",
+          "effect" : [5,2,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Netlinks and Chill.",
+          "effect" : [1,1,3,-1,1],
+          "factor" : [1,1,3,1,1]
+        },
+        {
+          "title" : "Play striptease poker",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "You are shy. Talk on the phone...",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to the club. Dance into her/his pants",
+          "effect" : [2,0,1,-1,5],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Built a web page to show your love for her/him",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "You have a serious health issue",
+      "answers" : [
+        {
+          "title" : "Go to the local pub and forget about it.",
+          "effect" : [5,2,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Go to the doctor.",
+          "effect" : [-3,-3,-3,-3,-3],
+          "factor" : [1,1,1,1,1]
+        },
+        {
+          "title" : "Ask loan shark to land money for treatment",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Browse web for treatment",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go to the club. It's just a phase",
+          "effect" : [2,0,1,-1,5],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Built a community page for the disease",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "You have dispute with your boss",
+      "answers" : [
+        {
+          "title" : "Go to a bar and drink to forget.",
+          "effect" : [5,2,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Have a mature talk.",
+          "effect" : [-3,-3,-3,-3,-3],
+          "factor" : [1,1,1,1,1]
+        },
+        {
+          "title" : "Ask loan shark to kill him",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Browse web for solutions for dispute",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Go party with fellow colleagues",
+          "effect" : [2,0,1,-1,5],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Built a hidden group to conspire against him",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    },
+    {
+      "title" : "Your lover sleeps over",
+      "answers" : [
+        {
+          "title" : "Go to a bar and drink to heat things up.",
+          "effect" : [5,2,0,-1,3],
+          "factor" : [4,1,1,1,1]
+        },
+        {
+          "title" : "Propose.",
+          "effect" : [-3,-3,-3,-3,-3],
+          "factor" : [1,1,1,1,1]
+        },
+        {
+          "title" : "Play poker and sex",
+          "effect" : [1,1,-1,4,0],
+          "factor" : [1,1,1,5,1]
+        },
+        {
+          "title" : "Watch a scary movie",
+          "effect" : [0,0,5,0,0],
+          "factor" : [1,1,5,1,1]
+        },
+        {
+          "title" : "Sex sex sex",
+          "effect" : [2,1,1,-1,3],
+          "factor" : [1,1,1,1,3]
+        },
+        {
+          "title" : "Watch funny videos",
+          "effect" : [-1,-1,5,-1,-1],
+          "factor" : [1,1,5,1,1]
+        }
+      ]
+    }
+  ]
+}
